@@ -29,11 +29,6 @@ Atualmente, estou focando em aprimorar os meus conhecimentos acadêmicos em proj
 ## GitHub
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=laurasthefanny07projects&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laurasthefanny07projects&layout=compact&theme=midnight-purple&hide_border=true"/>
-
 </div>
 
 ---
@@ -52,11 +47,9 @@ de aprendizado, estudos e prática em programação.
 <div align="left">
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
